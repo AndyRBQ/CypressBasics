@@ -1,0 +1,23 @@
+{
+  "name": "cypressbasics",
+  "version": "1.0.0",
+  "description": "tutorial about Cypress first steps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndyRBQ/CypressBasics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndyRBQ/CypressBasics/issues"
+  },
+  "homepage": "https://github.com/AndyRBQ/CypressBasics#readme",
+  "devDependencies": {
+    "cypress": "^7.7.0"
+  }
+}
