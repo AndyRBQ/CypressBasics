@@ -31,3 +31,4 @@ export class Register  {
   };
   
   export const registerObj = new Register();
+  

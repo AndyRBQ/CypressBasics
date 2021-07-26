@@ -12,3 +12,4 @@ export class BasePage  {
       cy.get(this.urlBase).should('include',stringToFind);
     }
   };
+  
